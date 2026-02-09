@@ -7,7 +7,7 @@ Pygments
 selenium
 mongo-tools
 cryptography
-django~=3.1.0
+django~=4.2.28
 pymongo==3.11
 PyMySQL==1.0.2
 django-currentuser
